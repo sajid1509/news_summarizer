@@ -1,0 +1,13 @@
+Flask
+streamlit
+transformers
+torch
+Flask
+requests
+beautifulsoup4
+newspaper3k
+gtts
+googletrans==4.0.0-rc1
+yake
+lxml
+lxml_html_clean
